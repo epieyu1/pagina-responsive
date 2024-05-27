@@ -164,7 +164,7 @@ td {
     border-radius: 10px;
     letter-spacing: 4px;
     overflow: hidden;
-    transition: transform .5s;
+    transition: transform .53s;
 }
 
 .btn-1:hover {
@@ -437,10 +437,12 @@ td {
     .header-text {
         flex-basis: 100%;
         text-align: center;
+        
     }
 
     .header-text h1 {
         font-size: 70px;
+       
     }
 
     .ofert {
@@ -540,7 +542,7 @@ td {
     }
 
     .menu ul li {
-        color: #050505;
+        color: #f7f5f5;
         font-weight: bold;
 
     }
@@ -583,12 +585,13 @@ td {
 
     .header-text h1 {
         font-size: 20px;
-        color: #eee8f0;
+        color: #740a97;
+       
     }
 
     .header-text p {
         font-size: 15px;
-        color: #ece7ee;
+        color: #740a97d5;
         font-weight: bold;
     }
 
@@ -598,7 +601,7 @@ td {
         display: flex;
         justify-content: center;
         letter-spacing: normal;
-        background-color: #fafafa96;
+        background-color:#f4f4f5a9 ;
 
 
     }
@@ -616,7 +619,7 @@ td {
         display: flex;
         justify-content: center;
         border-radius: 10px;
-        background-color: #3c77af;
+        background-color: #dddfe0;
 
     }
 
